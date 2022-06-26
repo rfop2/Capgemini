@@ -35,7 +35,7 @@ Usei poucas tecnologias para não complicar:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **VSCode**  ([React](https://code.visualstudio.com/download)  +  [Coding Pack For Java](https://code.visualstudio.com/docs/languages/java))
+#### **VSCode**  ([VSCode](https://code.visualstudio.com/download)  +  [Coding Pack For Java](https://code.visualstudio.com/docs/languages/java))
 
 ---
 
